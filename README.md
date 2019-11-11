@@ -1,6 +1,7 @@
 # O'Reilly Git Collaboration
 
-We are learning the mechanics for using git on our own. These are the same mechanics for colaborating with other people
+We are learning the mechanics for using git on our own. These are the same mechanics for colaborating with other people.
+Playing with Git conflict resolution
 
 ## Branching Commands
 
