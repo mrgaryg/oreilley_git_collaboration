@@ -48,4 +48,4 @@ When you want to update your branch with another, withou merging. For example up
 
 - `rebase`: general change to history
 
-- `cherry pick` : 
+- `cherry-pick` : 
