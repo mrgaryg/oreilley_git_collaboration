@@ -9,7 +9,7 @@ Make a conflict on master
 
 `git log --oneline --all --decorate --graph`
 
-### Remove/reconcile branches between remote and local
+### Remove/reconcile changes between remote and local
 
 `git fetch --prune`
 
@@ -26,3 +26,7 @@ Make a conflict on master
 - pull request merging branches on the github interface
 
 - `merge <branch>:` merges the `<branch>` *into* current branch
+
+## Conflicts
+
+This is change that was made in a differnt branch. I am making this change because I locked the master branch
