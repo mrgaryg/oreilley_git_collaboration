@@ -27,6 +27,9 @@ Make a conflict on master
 
 - `merge <branch>:` merges the `<branch>` *into* current branch
 
-## Conflicts
+## Collaborators and Conflicts
 
-This is change that was made in a differnt branch. I am making this change because I locked the master branch
+You can lock the master branch so that all changes to master come in as pull request
+This is change that was made in a different branch. I am making this change because I locked the master branch
+
+Conflicts will happen depending on the order of what gets merged
