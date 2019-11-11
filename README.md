@@ -1,1 +1,7 @@
-# O'Reill Git Collaboration
+# O'Reilly Git Collaboration
+
+## Branching
+
+## Commands
+
+`git log --oneline --all --decorate --graph`
