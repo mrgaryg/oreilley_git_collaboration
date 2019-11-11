@@ -26,3 +26,7 @@ Make a conflict on master
 - pull request merging branches on the github interface
 
 - `merge <branch>:` merges the `<branch>` *into* current branch
+
+## Collaborators
+
+You can lock the master branch so that all changes to master come in as pull request
