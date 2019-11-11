@@ -2,6 +2,8 @@
 
 We are learning the mechanics for using git on our own. These are the same mechanics for colaborating with other people
 
+Make a conflict on master
+
 ## Branching Commands
 
 `git log --oneline --all --decorate --graph`
