@@ -27,6 +27,12 @@ Make a conflict on master
 
 - `merge <branch>:` merges the `<branch>` *into* current branch
 
+## Removing unwanted changes from commits
+
+This will rollback commits up to the specific commit
+
+`git reset --hard <commit_hash>`
+
 ## Collaborators and Conflicts
 
 You can lock the master branch so that all changes to master come in as pull request
