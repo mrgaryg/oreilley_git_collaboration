@@ -9,7 +9,7 @@ Make a conflict on master
 
 `git log --oneline --all --decorate --graph`
 
-### Remove/reconcile branches between remote and local
+### Remove/reconcile changes between remote and local
 
 `git fetch --prune`
 
