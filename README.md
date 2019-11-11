@@ -7,6 +7,7 @@ Make a conflict on master
 
 ## Branching Commands
 
+Show you everything that is going on
 `git log --oneline --all --decorate --graph`
 
 ### Remove/reconcile changes between remote and local
@@ -39,3 +40,10 @@ You can lock the master branch so that all changes to master come in as pull req
 This is change that was made in a different branch. I am making this change because I locked the master branch
 
 Conflicts will happen depending on the order of what gets merged
+
+## Rebase and Cherry pick
+When you want to update your branch with another, withou merging. For example updating your branch with bug fixes
+
+- `rebase`: general change to history
+
+- cherry pick
