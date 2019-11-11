@@ -15,3 +15,9 @@
 ### Show branches
 
 `git branch -a`
+
+## Merging
+
+- pull request merging branches on the github interface
+
+- `merge <branch>:` merges the `<branch>` *into* current branch
