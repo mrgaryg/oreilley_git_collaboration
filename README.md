@@ -1,5 +1,7 @@
 # O'Reilly Git Collaboration
 
+We are learning the mechanics for using git on our own. These are the same mechanics for colaborating with other people
+
 ## Branching Commands
 
 `git log --oneline --all --decorate --graph`
