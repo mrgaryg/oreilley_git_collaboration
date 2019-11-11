@@ -4,11 +4,14 @@
 
 `git log --oneline --all --decorate --graph`
 
-Remove/reconcile branches between remote and local
+### Remove/reconcile branches between remote and local
+
 `git fetch --prune`
 
-Remove branch from local workspace
+### Remove branch from local workspace
+
 `git branch -d <name>`
 
-Show branches
+### Show branches
+
 `git branch -a`
